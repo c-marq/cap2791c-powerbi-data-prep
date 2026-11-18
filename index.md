@@ -3,7 +3,14 @@ title: "Power BI: Data Preparation and Modeling"
 subtitle: "From Raw Files to a Trusted Model"
 description: "A textbook on preparing and modeling data in Power BI Desktop, from raw files to a trusted model, by Professor Carlos Marquez."
 ---
-<!-- COVER_PLACEHOLDER: generate-cover.js inserts the cover figure here, before the H1 -->
+:::{figure} images/cover.png
+:label: fig-cover
+:alt: Book cover with a green top band holding the white title and cream subtitle, an orange stripe, and a white lower half where green and orange dots and lines flow into five linked boxes. The author's name, Professor Carlos Marquez, is in a green strip at the bottom.
+:width: 100%
+:align: center
+
+*Power BI: Data Preparation and Modeling* · Professor Carlos Marquez
+:::
 
 # Power BI: Data Preparation and Modeling
 
