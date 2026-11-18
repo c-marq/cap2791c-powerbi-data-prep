@@ -23,7 +23,7 @@ You will work with one story from start to finish. Sabor Miami is a small group 
 
 ## Who this book is for
 
-This book is for students and working people who are new to Power BI. If you have used Excel (PivotTables, tables and filters) and seen a little SQL (SELECT, WHERE, JOIN and keys), you already have the habits this book builds on. No coding background is needed.
+This book is for readers who are new to Power BI. If you have used Excel (PivotTables, tables and filters) and seen a little SQL (SELECT, WHERE, JOIN and keys), you already have the habits this book builds on. No programming experience is needed. The book introduces short SQL and DAX statements as you go.
 
 ## How the book works
 
@@ -37,7 +37,7 @@ The book follows the Zero Principle of Data Analytics: know your data before you
 6. Analyze two columns at a time (bivariate).
 7. Analyze three or more columns together (multivariate).
 
-Each chapter teaches one part of that order, and each section ends with a short Try This activity so you can practice right away.
+Each chapter teaches one part of that order, and each chapter section ends with a short Try This activity so you can practice right away.
 
 ## Chapters
 
