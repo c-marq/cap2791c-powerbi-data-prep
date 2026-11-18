@@ -1,0 +1,14 @@
+{
+  "profile": "course",
+  "title": "Power BI: Data Preparation and Modeling",
+  "slug": "cap2791c",
+  "repo": "cap2791c-powerbi-data-prep",
+  "github_user": "c-marq",
+  "deploy": "on-push",
+  "course": "CAP2791C",
+  "pages_url": "https://c-marq.github.io/cap2791c-powerbi-data-prep/",
+  "image_style": "Professional textbook illustration. Clean modern infographic style. Blue and orange color scheme with gray accents. White or light background. Labeled components with clear typography. Business analytics / data science education context. Wide landscape format, high resolution.",
+  "style_references": [],
+  "dataset_base": "https://raw.githubusercontent.com/c-marq/datasets/main/",
+  "instructor_drive_folder": ""
+}

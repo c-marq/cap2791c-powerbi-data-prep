@@ -1,0 +1,46 @@
+# MyST project configuration - docs: https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "Power BI: Data Preparation and Modeling"
+  authors:
+    - name: Professor Carlos Marquez
+  keywords: []
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/c-marq/cap2791c-powerbi-data-prep
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  exclude:
+    - "demos/**"
+    - "exercises/**"
+    - "labs/**"
+    - "solutions/**"
+    - "data/**"
+    - "case-studies/**"
+    - "resources/**"
+    - "notebooks/**"
+    - "instructor/**"
+    - "README.md"
+    - "GETTING-STARTED.md"
+  toc:
+    - file: index.md
+    - file: chapters/ch01-welcome-to-power-bi.md
+    - file: chapters/ch02-connecting-to-files.md
+    - file: chapters/ch03-connecting-to-databases.md
+    - file: chapters/ch04-profiling-and-power-query.md
+    - file: chapters/ch05-finding-and-cleaning-problems.md
+    - file: chapters/ch06-transforming-and-reshaping.md
+    - file: chapters/ch07-combining-data.md
+    - file: chapters/ch08-data-modeling-and-measures.md
+    - file: chapters/appendix-analysis-guide.md
+
+site:
+  title: "Power BI: Data Preparation and Modeling"
+  options:
+    logo_text: "Power BI: Data Preparation and Modeling"
+    logo_url: "/cap2791c-powerbi-data-prep/"
