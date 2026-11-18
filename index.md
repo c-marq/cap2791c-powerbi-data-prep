@@ -5,7 +5,7 @@ description: "A textbook on preparing and modeling data in Power BI Desktop, fro
 ---
 :::{figure} images/cover.png
 :label: fig-cover
-:alt: Book cover with a green top band holding the white title and cream subtitle, an orange stripe, and a white lower half where green and orange dots and lines flow into five linked boxes. The author's name, Professor Carlos Marquez, is in a green strip at the bottom.
+:alt: Mid-green hardcover book with a thin orange frame. The white title and subtitle sit above fine lines that flow from loose dots into five linked boxes outlined in orange, with the author's name, Professor Carlos Marquez, below.
 :width: 100%
 :align: center
 
